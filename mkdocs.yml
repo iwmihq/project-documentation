@@ -1,11 +1,11 @@
-site_name: Mkdocs Template
-site_description: A website template for using mkdocs
-site_author: Qiusheng Wu
-site_url: https://giswqs.github.io/mkdocs-template
+site_name: IWMI projects
+site_description: A IWMI website for using mkdocs
+site_author: IWMI
+site_url: https://github.com/iwmihq/iwmi-water-data-science
 
-repo_url: https://github.com/giswqs/mkdocs-template
+repo_url: https://github.com/iwmihq/iwmi-water-data-science
 
-copyright: "Copyright &copy; 2022 - 2025 Qiusheng Wu"
+copyright: "Copyright &copy; 2022 - 2025 IWMI"
 
 theme:
   palette:
@@ -58,11 +58,22 @@ nav:
   - Home: index.md
   - Notebook:
       - template.ipynb
-  - Chapter 1:
-      - chapter_01/intro.ipynb
-      - chapter_01/basemaps.ipynb
-  - Chapter 2:
-      - chapter_02/colorbar.ipynb
-      - chapter_02/heatmap.ipynb
-  - YouTube Channel: https://youtube.com/@giswqs
-  - Report Issues: https://github.com/giswqs/mkdocs-template/issues
+  - Datasets:
+    - 'Name of project':
+        - 'colorbar': 'Datasets/Name of project/colorbar.ipynb'
+        - 'intro': 'Datasets/Name of project/intro.ipynb'
+  - Google earth engine:
+    - 'Name of project':
+        - 'colorbar': 'Google earth engine/Name of project/colorbar.ipynb'
+        - 'heatmap': 'Google earth engine/Name of project/heatmap.ipynb'
+  - Pre-trained models:
+    - 'Name of project':
+        - 'colorbar': 'Pre-trained models/Name of project/colorbar.ipynb'
+        - 'heatmap': 'Pre-trained models/Name of project/heatmap.ipynb'
+  - Python:
+    - 'Name of project':
+        - 'colorbar': 'Python/Name of project/colorbar.ipynb'
+        - 'heatmap': 'Python/Name of project/heatmap.ipynb'
+
+  - YouTube Channel: https://www.youtube.com/@iwmi
+  - Report Issues: https://github.com/iwmihq/iwmi-water-data-science/issues
