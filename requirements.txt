@@ -3,7 +3,6 @@ geemap
 geopandas
 leafmap
 
-
 earthengine-api==0.1.385
 # geemap==0.30.1
 #geemap==0.17.2

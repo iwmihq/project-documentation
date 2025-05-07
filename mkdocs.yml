@@ -64,15 +64,15 @@ nav:
         - 'intro': 'Datasets/Name of project/intro.ipynb'
   - Google Earth Engine:
     - 'Name of project':
-        - 'colorbar': 'Google earth engine/Name of project/colorbar.ipynb'
-        - 'heatmap': 'Google earth engine/Name of project/heatmap.ipynb'
+        - 'colorbar': 'Google Earth Engine/Name of project/colorbar.ipynb'
+        - 'heatmap': 'Google Earth Engine/Name of project/heatmap.ipynb'
   - Models:
     - 'Name of project':
-        - 'colorbar': 'Pre-trained models/Name of project/colorbar.ipynb'
-        - 'heatmap': 'Pre-trained models/Name of project/heatmap.ipynb'
+        - 'colorbar': 'Models/Name of project/colorbar.ipynb'
+        - 'heatmap': 'Models/Name of project/heatmap.ipynb'
   - Python:
     - 'Name of project':
-        - 'colorbar': 'Python/water-storage/colorbar.ipynb'
+        - 'colorbar': 'Python/Name of project/colorbar.ipynb'
         - 'heatmap': 'Python/Name of project/heatmap.ipynb'
     - 'Water Storage':
         - 'grace_tws_analysis_pakistan': 'Python/Water Storage/00 grace tws analysis pakistan.ipynb'
