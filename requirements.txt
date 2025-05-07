@@ -2,7 +2,7 @@
 # geemap
 geopandas
 leafmap
-IPython
+
 
 earthengine-api==0.1.385
 # geemap==0.30.1
