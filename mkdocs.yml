@@ -75,7 +75,7 @@ nav:
         - 'colorbar': 'Python/water-storage/colorbar.ipynb'
         - 'heatmap': 'Python/Name of project/heatmap.ipynb'
     - 'Water Storage':
-        - 'grace_tws_analysis_pakistan': 'Python/water-storage/grace_tws_analysis_pakistan.ipynb'
+        - 'grace_tws_analysis_pakistan': 'Python/Water Storage/00 grace tws analysis pakistan.ipynb'
      
 
   - YouTube Channel: https://www.youtube.com/@iwmi
