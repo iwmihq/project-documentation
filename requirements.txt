@@ -1,11 +1,12 @@
 --find-links=https://girder.github.io/large_image_wheels GDAL
-geemap
+# geemap
 geopandas
 leafmap
 IPython
 
 earthengine-api==0.1.385
 # geemap==0.30.1
+geemap==0.17.2
 matplotlib==3.7.5
 numpy==1.26.4
 pandas==2.1.4
