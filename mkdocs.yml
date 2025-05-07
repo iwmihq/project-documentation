@@ -62,7 +62,7 @@ nav:
     - 'Name of project':
         - 'colorbar': 'Datasets/Name of project/colorbar.ipynb'
         - 'intro': 'Datasets/Name of project/intro.ipynb'
-  - Google earth engine:
+  - Google Earth Engine:
     - 'Name of project':
         - 'colorbar': 'Google earth engine/Name of project/colorbar.ipynb'
         - 'heatmap': 'Google earth engine/Name of project/heatmap.ipynb'
